@@ -9,3 +9,4 @@ streamlit-autorefresh
 reportlab
 python-docx
 numpy
+
