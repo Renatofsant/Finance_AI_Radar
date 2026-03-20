@@ -270,11 +270,11 @@ else:
     st.info("Nenhuma oportunidade detectada.")
 
 
-# Botão de Teste Manual no Dashboard
+# No final do arquivo dashboard.py
 if st.sidebar.button("🚀 Testar Alerta Agora"):
     from alerts.telegram_alert import enviar_alerta
-    enviar_alerta("🔔 Teste de Conexão: O Radar IA está online e enviando alertas!")
-    st.sidebar.success("Alerta enviado para o grupo!")
+    enviar_alerta("🔔 Teste de Conexão: O Radar IA está online!")
+    st.sidebar.success("Alerta enviado!")
 
 # ========================
 # IA PARA ATIVO ESCOLHIDO
