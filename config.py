@@ -1,0 +1,9 @@
+ATIVOS_MONITORADOS = [
+    "PETR4.SA",
+    "VALE3.SA",
+    "ITUB4.SA",
+    "BBDC4.SA",
+    "BBAS3.SA"
+]
+
+INTERVALO_ANALISE = 300
