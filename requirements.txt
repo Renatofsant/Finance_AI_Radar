@@ -1,0 +1,11 @@
+streamlit
+pandas
+yfinance
+plotly
+requests
+openai
+python-dotenv
+streamlit-autorefresh
+reportlab
+python-docx
+numpy
